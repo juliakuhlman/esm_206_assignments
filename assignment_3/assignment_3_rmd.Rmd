@@ -1,0 +1,17 @@
+---
+title: "Assignment 3"
+author: "J. Kuhlman"
+date: "2022-11-03"
+output: 
+  html_document: 
+    code_folding: hide
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE, results = FALSE)
+```
+
+```{r, results = TRUE}
+
+```
+
